@@ -7,9 +7,9 @@ To use ``headphones`` plugin, enable it in your configuration (see :ref:`using-p
 
     headphones:
         host: localhost
-        key: 8096
+        key: api_key
         username: user
-        password: apikey
+        password: pass
 
 To use the ``headphones`` plugin you need to install the `requests`_ library with::
 
